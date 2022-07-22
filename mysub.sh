@@ -7,3 +7,6 @@
 module load gaussian/g16.b01
 
 G16 fe.gjf   
+
+
+hi bye
